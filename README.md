@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
 </a>
    <img align="right" src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif" width="180" height="180"  /> 
-<h3 align="left">Lsiten to my music ♥ :</h3>
+<h3 align="left">Listen to my music ♥ :</h3>
  <a href="https://www.youtube.com/@cybertooth5619" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a> 
